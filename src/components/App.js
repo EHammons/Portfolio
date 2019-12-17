@@ -15,12 +15,12 @@ class App extends Component {
     return (
       <Router>
         <Nav/>
-          {/* <Wrapper>
-            <Switch>
+          <Wrapper>
+            {/* <Switch>
               <Route exact path="/" component={Home} />
-            </Switch>
+            </Switch> */}
           </Wrapper>
-        <Footer/> */}
+        <Footer/>
       </Router>
     );
   }
