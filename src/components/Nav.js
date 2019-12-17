@@ -33,7 +33,7 @@ class Nav extends Component {
         return (
             <nav className="navbar is-spaced is-white" role="navigation" aria-label="main navigation">
                 <div className="navbar-brand">
-                    <Link className="navbar-item logo" to="/home">
+                    <Link className="navbar-item logo" to="/">
                         Elise Hammons
                     </Link>
 
@@ -46,7 +46,7 @@ class Nav extends Component {
 
                 <div id="navbarBasic" className="navbar-menu">
                     <div className="navbar-end">
-                        <Link className="navbar-item" to="/home">
+                        <Link className="navbar-item" to="/">
                             About
                         </Link>
 

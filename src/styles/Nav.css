@@ -6,3 +6,11 @@
     background: #4aaaa5;
     padding: 15px;
 }
+
+.logo:visited {
+    background-color: #4aaaa5 !important;
+}
+
+.logo:hover {
+    background-color: #4aaaa567 !important;
+}

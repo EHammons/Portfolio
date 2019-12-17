@@ -23,7 +23,7 @@ class Home extends Component {
                 <p>
                     For 10 years, I have worked as a Graphic Designer for two different companies. Both focused more on technical, standards-driven design rather than the creative, client-driven design found in most Graphic Design jobs.
                     Unfortunately, this translates to most Graphic Design jobs who don't like my portfolio.
-                    I've always liked coding. I wrote programs on my TI-83 calculator in high school, used HTML to make my myspace page include gifs and pictures in the main section, and my favorite design class was Flash.
+                    I've always liked coding. I wrote programs on my TI-83 calculator in high school, used HTML to make my Myspace page include gifs and pictures in the main section, and my favorite design class was Flash.
                     I even created my original website completely in Flash because I loved the coding.
                     Of course, Flash is no longer used at all and has been phased out of everything.
                 </p>
