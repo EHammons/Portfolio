@@ -9,16 +9,16 @@ import Home from "../components/Home";
 class App extends Component {
 
   state = { 
-  }
+  };
 
   render () {
     return (
       <Router>
         <Nav/>
           <Wrapper>
-            {/* <Switch>
+            <Switch>
               <Route exact path="/" component={Home} />
-            </Switch> */}
+            </Switch>
           </Wrapper>
         <Footer/>
       </Router>
